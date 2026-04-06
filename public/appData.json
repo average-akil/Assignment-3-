@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "image": "https://cdn.simpleicons.org/spotify",
+    "description": "Listen to music, podcasts, and audiobooks. Discover new artists and create playlists tailored to your mood.",
+    "size": 98,
+    "reviews": 24500000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 320000 },
+      { "name": "2 star", "count": 180000 },
+      { "name": "3 star", "count": 750000 },
+      { "name": "4 star", "count": 4200000 },
+      { "name": "5 star", "count": 19050000 }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Instagram",
+    "companyName": "Meta Platforms Inc.",
+    "image": "https://cdn.simpleicons.org/instagram",
+    "description": "Capture and share the world's moments. Follow your friends, explore trends, and express yourself through photos and reels.",
+    "size": 145,
+    "reviews": 31000000,
+    "ratingAvg": 4.4,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 900000 },
+      { "name": "2 star", "count": 420000 },
+      { "name": "3 star", "count": 1100000 },
+      { "name": "4 star", "count": 6800000 },
+      { "name": "5 star", "count": 21780000 }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Notion",
+    "companyName": "Notion Labs Inc.",
+    "image": "https://cdn.simpleicons.org/notion",
+    "description": "The all-in-one workspace for notes, tasks, wikis, and databases. Organize your life and work in one powerful app.",
+    "size": 62,
+    "reviews": 1800000,
+    "ratingAvg": 4.7,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 18000 },
+      { "name": "2 star", "count": 12000 },
+      { "name": "3 star", "count": 90000 },
+      { "name": "4 star", "count": 360000 },
+      { "name": "5 star", "count": 1320000 }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Duolingo",
+    "companyName": "Duolingo Inc.",
+    "image": "https://cdn.simpleicons.org/duolingo",
+    "description": "Learn a new language for free. Bite-sized lessons in Spanish, French, Japanese, and 30+ more languages make it fun and addictive.",
+    "size": 75,
+    "reviews": 12400000,
+    "ratingAvg": 4.8,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 98000 },
+      { "name": "2 star", "count": 52000 },
+      { "name": "3 star", "count": 250000 },
+      { "name": "4 star", "count": 1800000 },
+      { "name": "5 star", "count": 10200000 }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "WhatsApp",
+    "companyName": "Meta Platforms Inc.",
+    "image": "https://cdn.simpleicons.org/whatsapp",
+    "description": "Simple, reliable, private messaging and calling for free, available all over the world.",
+    "size": 55,
+    "reviews": 40000000,
+    "ratingAvg": 4.3,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1200000 },
+      { "name": "2 star", "count": 800000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "4 star", "count": 8000000 },
+      { "name": "5 star", "count": 28000000 }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Figma",
+    "companyName": "Figma Inc.",
+    "image": "https://cdn.simpleicons.org/figma",
+    "description": "Collaborative interface design tool for teams. Design, prototype, and hand off all in one place.",
+    "size": 88,
+    "reviews": 920000,
+    "ratingAvg": 4.6,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 9000 },
+      { "name": "2 star", "count": 6000 },
+      { "name": "3 star", "count": 35000 },
+      { "name": "4 star", "count": 180000 },
+      { "name": "5 star", "count": 690000 }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "image": "https://cdn.simpleicons.org/youtube",
+    "description": "Watch, upload, and share videos. From tutorials to music videos to live streams — the world's largest video platform.",
+    "size": 130,
+    "reviews": 55000000,
+    "ratingAvg": 4.5,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1500000 },
+      { "name": "2 star", "count": 700000 },
+      { "name": "3 star", "count": 2200000 },
+      { "name": "4 star", "count": 10500000 },
+      { "name": "5 star", "count": 40100000 }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Todoist",
+    "companyName": "Doist Inc.",
+    "image": "https://cdn.simpleicons.org/todoist",
+    "description": "The to-do list and task manager that helps you get organized and stay calm. Manage tasks across all your devices.",
+    "size": 42,
+    "reviews": 680000,
+    "ratingAvg": 4.5,
+    "downloads": 50000000,
+    "ratings": [
+      { "name": "1 star", "count": 8000 },
+      { "name": "2 star", "count": 5000 },
+      { "name": "3 star", "count": 27000 },
+      { "name": "4 star", "count": 130000 },
+      { "name": "5 star", "count": 510000 }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Canva",
+    "companyName": "Canva Pty Ltd",
+    "image": "https://cdn.simpleicons.org/canva",
+    "description": "Design anything — presentations, logos, posters, videos and more. Thousands of templates for every need.",
+    "size": 110,
+    "reviews": 4500000,
+    "ratingAvg": 4.9,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 18000 },
+      { "name": "2 star", "count": 9000 },
+      { "name": "3 star", "count": 63000 },
+      { "name": "4 star", "count": 450000 },
+      { "name": "5 star", "count": 3960000 }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Telegram",
+    "companyName": "Telegram FZ LLC",
+    "image": "https://cdn.simpleicons.org/telegram",
+    "description": "Fast and secure messaging app with group chats, channels, file sharing and end-to-end encrypted calls.",
+    "size": 60,
+    "reviews": 8200000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 80000 },
+      { "name": "3 star", "count": 320000 },
+      { "name": "4 star", "count": 1650000 },
+      { "name": "5 star", "count": 6000000 }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Calm",
+    "companyName": "Calm.com Inc.",
+    "image": "https://cdn.simpleicons.org/calm",
+    "description": "Sleep, meditate and relax with the app designed to help you feel better every day. Guided meditations, sleep stories and more.",
+    "size": 68,
+    "reviews": 2100000,
+    "ratingAvg": 4.8,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 21000 },
+      { "name": "2 star", "count": 10000 },
+      { "name": "3 star", "count": 69000 },
+      { "name": "4 star", "count": 420000 },
+      { "name": "5 star", "count": 1580000 }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "VS Code",
+    "companyName": "Microsoft Corporation",
+    "image": "https://cdn.simpleicons.org/visualstudiocode",
+    "description": "Lightweight but powerful source code editor with support for hundreds of languages and a rich extension ecosystem.",
+    "size": 200,
+    "reviews": 3400000,
+    "ratingAvg": 4.8,
+    "downloads": 50000000,
+    "ratings": [
+      { "name": "1 star", "count": 20000 },
+      { "name": "2 star", "count": 14000 },
+      { "name": "3 star", "count": 96000 },
+      { "name": "4 star", "count": 570000 },
+      { "name": "5 star", "count": 2700000 }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Headspace",
+    "companyName": "Headspace Inc.",
+    "image": "https://cdn.simpleicons.org/headspace",
+    "description": "Your guide to mindfulness and meditation. Hundreds of exercises for stress, sleep, focus, and movement.",
+    "size": 72,
+    "reviews": 1500000,
+    "ratingAvg": 4.7,
+    "downloads": 70000000,
+    "ratings": [
+      { "name": "1 star", "count": 15000 },
+      { "name": "2 star", "count": 9000 },
+      { "name": "3 star", "count": 51000 },
+      { "name": "4 star", "count": 300000 },
+      { "name": "5 star", "count": 1125000 }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "image": "https://cdn.simpleicons.org/googlemaps",
+    "description": "Navigate your world faster and easier. Real-time GPS, traffic, transit, and directions for walking, driving, and cycling.",
+    "size": 115,
+    "reviews": 35000000,
+    "ratingAvg": 4.4,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 900000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "3 star", "count": 1800000 },
+      { "name": "4 star", "count": 7000000 },
+      { "name": "5 star", "count": 24800000 }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Slack",
+    "companyName": "Salesforce Inc.",
+    "image": "https://cdn.simpleicons.org/slack",
+    "description": "Slack is a messaging app for teams that brings all your communication and tools together in one place.",
+    "size": 90,
+    "reviews": 2800000,
+    "ratingAvg": 4.3,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 80000 },
+      { "name": "2 star", "count": 55000 },
+      { "name": "3 star", "count": 165000 },
+      { "name": "4 star", "count": 700000 },
+      { "name": "5 star", "count": 1800000 }
+    ]
+  }
+]
