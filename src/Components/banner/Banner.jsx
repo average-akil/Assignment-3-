@@ -4,7 +4,7 @@ import Abtn from "../../assets/Screenshot_204.png";
 import heroPng from "../../assets/hero.png";
 const Banner = () => {
   return (
-    <div className="h-[700] w-[700]">
+    <div className="h-full w-full">
       <div className="hero bg-base-200">
         <div className="hero-content text-center flex flex-col">
           <div className="pt-15">
