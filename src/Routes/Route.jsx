@@ -6,6 +6,7 @@ import Apps from "../Pages/Apps/Apps.jsx";
 import Footer from "../Components/Footer/Footer.jsx";
 import TrendingApps from "../Pages/Apps/TrendingApps.jsx";
 import Review from "../Components/Review/Review.jsx";
+import AppDetails from "../Pages/AppDetails/AppDetails.jsx";
 
 export let router = createBrowserRouter([
   {
@@ -24,7 +25,15 @@ export let router = createBrowserRouter([
         loader: () => fetch("appData.json"),
         Component: Apps,
       },
-      
+      {
+        path: "appDetails/:id",
+        loader: async ({ params }) => {
+          const res = await fetch("appData.json");
+          const apps = await res.json();
+          return apps.find((app) => app.id === Number(params.id));
+        },
+        Component: AppDetails,
+      },
     ],
   },
 ]);
