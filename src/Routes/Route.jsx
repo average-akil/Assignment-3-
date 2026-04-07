@@ -12,18 +12,19 @@ export let router = createBrowserRouter([
   {
     path: "/",
     Component: Root,
-    errorElement: <ErrorPage></ErrorPage>,
     children: [
       {
         index: true,
         loader: () => fetch("appData.json"),
         path: "/",
         Component: Home,
+        errorElement: <ErrorPage />,
       },
       {
         path: "/apps",
         loader: () => fetch("appData.json"),
         Component: Apps,
+        errorElement: <ErrorPage />,
       },
       {
         path: "appDetails/:id",
@@ -33,6 +34,11 @@ export let router = createBrowserRouter([
           return apps.find((app) => app.id === Number(params.id));
         },
         Component: AppDetails,
+        errorElement: <ErrorPage />,
+      },
+      {
+        path: "*",
+        Component: ErrorPage,
       },
     ],
   },
