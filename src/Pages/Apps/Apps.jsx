@@ -1,7 +1,12 @@
 import React from "react";
 import App from "./App";
+import { useLoaderData } from "react-router";
+import ErrorPage from "../ErrorPage/ErrorPage";
 
-const Apps = ({ data }) => {
+const Apps = () => {
+  const data = useLoaderData();
+
+
   return (
     <div>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5">
@@ -9,7 +14,9 @@ const Apps = ({ data }) => {
           <App key={singleApp.id} singleApp={singleApp}></App>
         ))}
       </div>
-      <div className="flex items-center justify-center">
+
+      {/*      
+      <div className="flex items-center just">
         <button>
           <svg
             width="145"
@@ -43,7 +50,7 @@ const Apps = ({ data }) => {
             </defs>
           </svg>
         </button>
-      </div>
+      </div> */}
     </div>
   );
 };

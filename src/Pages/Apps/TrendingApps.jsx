@@ -1,7 +1,9 @@
 import React from "react";
 import App from "./App";
+import { useNavigate } from "react-router";
 
 const TrendingApps = ({ data }) => {
+  const navigate = useNavigate();
   return (
     <div>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5">
@@ -9,8 +11,8 @@ const TrendingApps = ({ data }) => {
           <App key={singleApp.id} singleApp={singleApp}></App>
         ))}
       </div>
-      <div className="flex items-center justify-center">
-        <button>
+      <div className="flex items-center justify-center py-5">
+        <button onClick={() => navigate("/apps")}>
           <svg
             width="145"
             height="48"
